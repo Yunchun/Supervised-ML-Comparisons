@@ -1,9 +1,0 @@
-,dataset,model,trial,train_accuracy,train_precision,train_recall,train_specificity,train_f1,train_roc_auc,test_accuracy,test_precision,test_recall,test_specificity,test_f1,test_roc_auc
-0,shrooms,svm,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-1,shrooms,svm,2,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-2,shrooms,svm,3,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-3,shrooms,svm,4,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-4,shrooms,svm,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-5,shrooms,svm,6,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-6,shrooms,svm,7,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-7,shrooms,svm,avg,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
